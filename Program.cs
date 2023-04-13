@@ -5,7 +5,7 @@ namespace UA3Projet
 {
     public class Client
     {
-        public string Noms { get; set; }
+        public string Nom { get; set; }
         public string Prenom { get; set; }
         public string Courriel { get; set; }
         public string CarteDeCredit { get; set; }
